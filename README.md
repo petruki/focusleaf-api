@@ -15,4 +15,5 @@ Don't be shy. Use our discussion session here on GitHub to describe what improve
 
 ## Donation
 Donations for cookies and pizza are extremely welcomed.
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FKW64V67RKXW&source=url)
